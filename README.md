@@ -1,9 +1,12 @@
-# This project is about the Akan age calculator, Version Date: 25th Oct 2022
+# The Akan Names Calculator
+
+### This project is about the Akan age calculator, Version Date: 25th Oct 2022
 
 #### By David Muthui
 
 #### Description This is my Indepedent Week 2 Project.
-I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+
+#### I have built a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 #### For example, if a user is male and the result of the calculation is Sunday, then the application matches that with Kwasi since Kwasi corresponds to Sunday which has an index 0. Hence the output the user will see should be something like “Your Akan name is Kwasi”. Below are the Ghanian's male and female names with their corresponding days of the week:
 
 #### | DayOfWeek       | MaleName | FemaleName |
@@ -19,11 +22,11 @@ I have built a web application that takes a user's birthday and calculates the d
 #### I have been built this web page using visual studio code, Javascript, git bash and then uploading on Github.
 
 #### BDD -The behavior that we'll need to write code to handle. -A sample of input that would demonstrate the behavior. -The expected output we would get when the code is working correctly. Day of the week (d) = ( ( (CC/4) -2CC-1) + ((5YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7 where; var century, yearDigit, monthDigit, monthDay, dayOfWeek, dayValue; 
-// century - is the century digits. For example 1989 has CC = 19 
-// yearDigit - is the Year digits (1989 has YY = 89) 
-// monthDigit - is the Month // monthDay - is the Day of the month 
-// dayOfWeek - Day of the week (d) = ( ( (CC/4) -2CC-1) + ((5YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7 
-// dayValue - the number that represent day of week in java eg Sunday is 0
+#### // century - is the century digits. For example 1989 has CC = 19 
+#### // yearDigit - is the Year digits (1989 has YY = 89) 
+#### // monthDigit - is the Month // monthDay - is the Day of the month 
+#### // dayOfWeek - Day of the week (d) = ( ( (CC/4) -2CC-1) + ((5YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7 
+#### // dayValue - the number that represent day of week in java eg Sunday is 0
 
 ## Setup/Installation Requirements
 
