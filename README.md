@@ -40,9 +40,10 @@
 
 #### Known Bugs There are no known bugs on this project.
 
-#### Technologies Used Languages used include HTML, javascript and CSS (bootstrap). I have used editor Visual Studio Code for creating the app and Git & Git Bash terminal and browser console for coding.
+### Technologies Used 
+##### Languages used include HTML, javascript and CSS (bootstrap). I have used editor Visual Studio Code for creating the app and Git & Git Bash terminal and browser console for coding.
 
-### Support and contact details If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: vyda2002us@gmail.com to make a contribution to the code or for any assistance on the app/project.
+##### Support and contact details If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: vyda2002us@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
 #### Github URL Link To be able to view the project click on https://dmuthui.github.io/Akan-name/
 
