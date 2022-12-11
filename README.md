@@ -1,8 +1,8 @@
 # The Akan Names Calculator
 
-### This project is about the Akan age calculator, Version Date: 25th Oct 2022
+#### This project is about the Akan age calculator, Version Date: 25th Oct 2022
 
-### Author:David Muthui
+#### Author:David Muthui
 
 ### Description This is my Indepedent Week 2 Project.
 
@@ -28,7 +28,7 @@
 ##### // dayOfWeek - Day of the week (d) = ( ( (CC/4) -2CC-1) + ((5YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7 
 ##### // dayValue - the number that represent day of week in java eg Sunday is 0
 
-## Setup/Installation Requirements
+### Setup/Installation Requirements
 
 ##### Input the date of birth.
 ##### Input the month of birth. 
@@ -36,17 +36,17 @@
 ##### Select Gender Male or Female Get your Akan name. 
 ##### The output results then display.
 
-##### To access for code for learning: Go to Git clone https://github.com/dmuthui/Akan-name.git Open cloned code on VS code Run on live server
+#### To access for code for learning: Go to Git clone https://github.com/dmuthui/Akan-name.git Open cloned code on VS code Run on live server
 
-#### Known Bugs There are no known bugs on this project.
+### Known Bugs There are no known bugs on this project.
 
 ### Technologies Used 
 ##### Languages used include HTML, javascript and CSS (bootstrap). I have used editor Visual Studio Code for creating the app and Git & Git Bash terminal and browser console for coding.
 
 ##### Support and contact details If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: vyda2002us@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
-#### Github URL Link To be able to view the project click on https://dmuthui.github.io/Akan-name/
+##### Github URL Link To be able to view the project click on https://dmuthui.github.io/Akan-name/
 
-## License The License used is GPL
+##### License The License used is GPL
 
-#### Copyright (c) 2022 David Muthui
+##### Copyright (c) 2022 David Muthui
