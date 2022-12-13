@@ -2,7 +2,7 @@
 
 ## This project is about the Akan age calculator, Version Date: 25th Oct 2022
 
-##### Author:David Muthui
+#### Author:David Muthui
 
 ## Description This is my Indepedent Week 2 Project.
 
@@ -48,5 +48,5 @@
 ##### Github URL Link To be able to view the project click on https://dmuthui.github.io/Akan-name/
 
 ## License and Copyright information
-##### License The License used is GPL
+##### The License used is GPL
 ##### Copyright (c) 2022 David Muthui
